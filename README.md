@@ -105,4 +105,3 @@ This project was developed by:
 *   Samarth P
 *   Sadhana Shashidhar
 *   Sakshi Rajani
-*   Sakshi Masand
